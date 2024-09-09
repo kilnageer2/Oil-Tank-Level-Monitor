@@ -1,0 +1,85 @@
+16:44:00.473 -> Copyright @2019-2020 Heltec Automation.All rights reserved.
+16:44:00.706 -> 
+16:44:00.706 -> 
+16:44:00.706 -> Sketch:  Distance_Measurer_SR04T_v1_9_slan_031.ino
+16:44:00.706 -> Created: Mon 9th Sept 2024 16:45
+16:44:00.706 -> Board:   CubeCell Dev-Board Plus (HTCC-AB02)
+16:44:00.706 -> Region:  REGION_EU868
+16:44:00.706 -> Info:    https://heltec.org/project/htcc-ab02/
+16:44:00.706 -> 
+16:44:00.706 -> 
+16:44:00.706 -> AT Rev 1.3
+16:44:00.706 -> +AutoLPM=1
+16:44:00.706 -> 
+16:44:00.706 -> +LORAWAN=1
+16:44:00.706 -> 
+16:44:00.706 -> +KeepNet=0
+16:44:00.706 -> +OTAA=1
+16:44:00.739 -> +Class=A
+16:44:00.739 -> +ADR=1
+16:44:00.739 -> +IsTxConfirmed=1
+16:44:00.739 -> +AppPort=11
+16:44:00.739 -> +DutyCycle=900000
+16:44:00.739 -> +ConfirmedNbTrials=4
+16:44:00.739 -> +ChMask=0000000000000000000000FF
+16:44:00.739 -> +DevEui=***HIDDEN****(For OTAA Mode)
+16:44:00.739 -> +AppEui=***HIDDEN****(For OTAA Mode)
+16:44:00.739 -> +AppKey=***HIDDEN****(For OTAA Mode)
+16:44:00.739 -> +NwkSKey=00000000000000000000000000000000(For ABP Mode)
+16:44:00.739 -> +AppSKey=00000000000000000000000000000000(For ABP Mode)
+16:44:00.739 -> +DevAddr=00000000(For ABP Mode)
+16:44:00.739 -> 
+16:44:00.739 -> 
+16:44:00.739 -> LoRaWAN EU868 Class A start!
+16:44:00.739 -> 
+16:44:00.871 -> joining...joined
+16:44:08.638 -> i = 0, mmDistance = 6848
+16:44:10.729 -> i = 1, mmDistance = 6848
+16:44:12.787 -> i = 2, mmDistance = 6845
+16:44:14.845 -> i = 3, mmDistance = 6849
+16:44:16.935 -> i = 4, mmDistance = 6849
+16:44:18.993 -> i = 5, mmDistance = 6849
+16:44:21.084 -> i = 6, mmDistance = 6848
+16:44:23.142 -> i = 7, mmDistance = 6849
+16:44:25.199 -> i = 8, mmDistance = 6848
+16:44:27.290 -> i = 9, mmDistance = 6849
+16:44:27.290 -> diff = 6849, lastReading = 0, mmDistance = 6849
+16:44:29.348 -> i = 0, mmDistance = 6844
+16:44:31.438 -> i = 1, mmDistance = 6849
+16:44:33.496 -> i = 2, mmDistance = 6849
+16:44:35.553 -> i = 3, mmDistance = 6849
+16:44:37.645 -> i = 4, mmDistance = 6849
+16:44:39.703 -> i = 5, mmDistance = 6844
+16:44:41.793 -> i = 6, mmDistance = 6845
+16:44:43.851 -> i = 7, mmDistance = 6844
+16:44:45.908 -> i = 8, mmDistance = 6849
+16:44:47.999 -> i = 9, mmDistance = 6849
+16:44:47.999 -> diff = 0, lastReading = 6849, mmDistance = 6849
+16:44:47.999 -> battery: 4002 mV, distance: 6849 mm
+16:44:47.999 -> confirmed uplink sending ...
+16:44:53.342 -> received unconfirmed downlink: rssi = -79, snr = 13, datarate = 5
+16:59:50.143 -> i = 0, mmDistance = 6841
+16:59:52.201 -> i = 1, mmDistance = 6841
+16:59:54.291 -> i = 2, mmDistance = 6846
+16:59:56.348 -> i = 3, mmDistance = 6841
+16:59:58.439 -> i = 4, mmDistance = 6841
+17:00:00.496 -> i = 5, mmDistance = 6846
+17:00:02.587 -> i = 6, mmDistance = 6846
+17:00:04.645 -> i = 7, mmDistance = 6846
+17:00:06.702 -> i = 8, mmDistance = 6846
+17:00:08.792 -> i = 9, mmDistance = 6846
+17:00:08.792 -> diff = 6846, lastReading = 0, mmDistance = 6846
+17:00:10.850 -> i = 0, mmDistance = 6847
+17:00:12.942 -> i = 1, mmDistance = 6852
+17:00:15.000 -> i = 2, mmDistance = 6846
+17:00:17.060 -> i = 3, mmDistance = 6853
+17:00:19.152 -> i = 4, mmDistance = 6846
+17:00:21.209 -> i = 5, mmDistance = 6846
+17:00:23.300 -> i = 6, mmDistance = 6846
+17:00:25.357 -> i = 7, mmDistance = 6846
+17:00:27.417 -> i = 8, mmDistance = 6853
+17:00:29.507 -> i = 9, mmDistance = 6842
+17:00:29.507 -> diff = 4, lastReading = 6846, mmDistance = 6842
+17:00:29.507 -> battery: 4002 mV, distance: 6842 mm
+17:00:29.507 -> confirmed uplink sending ...
+17:00:34.848 -> received unconfirmed downlink: rssi = -82, snr = 13, datarate = 5
